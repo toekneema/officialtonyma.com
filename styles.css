@@ -443,6 +443,7 @@ body::after {
         padding: 2rem;
         border-right: none;
         border-bottom: 2px solid var(--border-glass);
+        position: relative;
     }
 
     .content {
